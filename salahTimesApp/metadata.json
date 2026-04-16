@@ -1,0 +1,6 @@
+{
+  "uuid": "salahTimesApp",
+  "name": "Salah times application",
+  "description": "Shows daily prayer times based on location",
+  "icon": "calendar-check-symbolic"
+}
